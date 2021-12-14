@@ -1,6 +1,6 @@
 {
-    "name": "Cryptobase",
-    "description": "Cryptobase",
+    "name": "GM Cripto price",
+    "description": "GM Cripto price",
     "version": "1.1",
     "manifest_version": 3,
     "permissions": [],
@@ -9,7 +9,7 @@
       "service_worker": "background.js"
     },
     "action": {
-      "default_title": "Cryptobase",
+      "default_title": "GM Cripto price",
       "default_icon": "assets/icon.png",
       "default_popup": "popup.html"
     },

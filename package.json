@@ -11,5 +11,9 @@
     "url": "git@github-gumonet:gumonet/CryptoBase.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
 }
